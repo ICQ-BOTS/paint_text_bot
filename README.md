@@ -1,11 +1,18 @@
-<img src="https://github.com/ICQ-BOTS/paint_text_bot/blob/main/paint_text.png" width="100" height="100">
 
+# [Рукописные конспекты](https://icq.im/text_bot)
 
-# Рукописные конспекты
+<a href="https://icq.im/text_bot"><img src="https://github.com/ICQ-BOTS/paint_text_bot/blob/main/paint_text.png" width="100" height="100"></a>
 
-[Рукописные конспекты](https://icq.im/text_bot)
+# Оглавление 
+ - [Описание](https://github.com/ICQ-BOTS/paint_text_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/paint_text_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/paint_text_bot#скриншоты-работы)
 
-Старт:
+# Описание
+Это твое одеяло. Я буду напоминать тебе каждый день, как я по тебе скучаю.
+
+# Установка
+
 1. Установка всех зависимостей 
 ```bash
 pip3 install -r requirements.txt
@@ -23,3 +30,7 @@ tarantoolctl start paint_text.lua
 ```bash
 python3 paint_text_bot.py
 ```
+
+# Скриншоты работы
+<img src="https://github.com/ICQ-BOTS/paint_text_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/paint_text_bot/blob/main/img/2.png" width="400">
